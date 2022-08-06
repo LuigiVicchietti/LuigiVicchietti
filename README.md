@@ -13,7 +13,7 @@
 <div align="left" >
   <a href="https://github.com/luigivicchietti">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luigivicchietti&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigivicchietti&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigivicchietti&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luigi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
