@@ -24,6 +24,12 @@
   <img align="center" alt="Luigi-Booststrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   
 #
+
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Luigi-Certification" height="50" width="60" src="./assets/microsoft-certified-fundamentals-badge.svg">
+   (Microsoft Certification: Azure AI Fundamentals, Azure Data Fundamentals)
+  
+#
 <div> 
   <a href="https://instagram.com/ylu1gi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/#-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
