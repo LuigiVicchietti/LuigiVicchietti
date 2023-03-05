@@ -4,10 +4,10 @@
 ##
 
 
-- 📌 I'm currently working...
+- 📌 I'm currently studying/working...
 - 📌 I’m currently learning more about HTML, CSS and JavaScript
 - 📩 My contact: Vcchtt.yLuigi222@outlook.com
-- 🚀 Member of the Pyxis company 
+- 🚀 Member of the Pyxis company - SPTECH Student
 
 ##
 <br>
@@ -32,7 +32,7 @@
 
 <br>
 
-  <div align="center">
+  <div align="left">
   <img align="center" alt="Luigi-MicrosoftCertification" height="100" width="100" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
   </div> <br>
     
