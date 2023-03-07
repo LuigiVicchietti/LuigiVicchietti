@@ -7,19 +7,20 @@
 - 📌 I'm currently studying/working...
 - 📌 I’m currently learning more about HTML, CSS and JavaScript
 - 📩 My contact: Vcchtt.yLuigi222@outlook.com
-- 🚀 Member of the Pyxis company - SPTECH Student
+- 🚀 Member of the Pyxis company
+- 📚 SPTECH Student
 
 ##
 <br>
 <div align="left" >
   <a href="https://github.com/luigivicchietti"> </a>
   <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luigivicchietti&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luigivicchietti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigiVicchietti&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigiVicchietti&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
-<div align="left">
+<div align="center">
   <img align="center" alt="Luigi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luigi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luigi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,7 +33,7 @@
 
 <br>
 
-  <div align="left">
+  <div align="center">
   <img align="center" alt="Luigi-MicrosoftCertification" height="100" width="100" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
   </div> <br>
     
