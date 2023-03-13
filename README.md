@@ -6,7 +6,7 @@
 <dl> 
   <dd> 
       <dl> 
-          <dd> <img style="margin-right: 30px;" align="right" height="160em" margin-right="30em" src="https://media2.giphy.com/media/GYB9dW0icvBg4/200w.gif?cid=6c09b952z1720evvv7ttwckmthio9jxabpy68pymjaeyg3zr&rid=200w.gif&ct=s" /> 
+          <dd> <img align="right" height="140em" margin-right="30em" src="https://media2.giphy.com/media/GYB9dW0icvBg4/200w.gif?cid=6c09b952z1720evvv7ttwckmthio9jxabpy68pymjaeyg3zr&rid=200w.gif&ct=s" /> 
         </dd>
       </dl>
   </dd> 
