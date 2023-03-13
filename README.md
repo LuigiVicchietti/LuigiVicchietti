@@ -3,13 +3,21 @@
 ### "Everything You've ever wanted is sitting on the other side of fear"
 ##
 
+<dl> 
+  <dd> 
+      <dl> 
+          <dd> <img style="margin-right: 30px;" align="right" height="160em" margin-right="30em" src="https://media2.giphy.com/media/GYB9dW0icvBg4/200w.gif?cid=6c09b952z1720evvv7ttwckmthio9jxabpy68pymjaeyg3zr&rid=200w.gif&ct=s" /> 
+        </dd>
+      </dl>
+  </dd> 
+</dl>
 
 - 📌 I'm currently studying/working...
 - 📌 I’m currently learning more about HTML, CSS and JavaScript
 - 📩 My contact: Vcchtt.yLuigi222@outlook.com
 - 🚀 Member of the Pyxis company
 - 📚 SPTECH Student
-
+  
 ##
 <br>
 <div align="left" >
