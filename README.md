@@ -15,8 +15,8 @@
 - 📌 I'm currently studying/working...
 - 📌 I’m currently learning more about HTML, CSS and JavaScript
 - 📩 My contact: Vcchtt.yLuigi222@outlook.com
-- 🚀 Member of the Pyxis company
-- 📚 SPTECH Student
+- 🚀 Ex ETEC de Guaianases Student - Pyxis Member
+- 📚 Currently SPTECH Student
   
 ##
 <br>
@@ -35,6 +35,7 @@
   <img align="center" alt="Luigi-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Luigi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Luigi-Booststrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Luigi-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
   
 #
