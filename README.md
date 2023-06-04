@@ -1,14 +1,16 @@
 ```javascript
-function programProject(me, project) {
+function checkProject(me, project) {
   if (project != complete) {
     console.log('Keep focused');
+    programProject(me, project);
+    
     return drinkEnergyDrink(mango);
   } else {
     return sleep();
   }
 }
 ```
-## Hello! It's me, Luigi! 👋😄
+## Hello! I'm Luigi! 👋😄
 
 ### "Everything You've ever wanted is sitting on the other side of fear"
 
@@ -26,8 +28,9 @@ function programProject(me, project) {
 - 📌 I'm currently studying/working...
 - 📌 I’m currently learning more about HTML, CSS and JavaScript
 - 📩 My contact: Vcchtt.yLuigi222@outlook.com
-- 🚀 Ex ETEC de Guaianases Student - Pyxis Member
-- 📚 Currently SPTECH Student
+- 🚀 Ex ETEC de Guaianases Student - TCC Pyxis Member
+- 📚 Currently a SPTECH Student
+- 📢 Intermediate English Level
   
 ##
 <div align="left" >
