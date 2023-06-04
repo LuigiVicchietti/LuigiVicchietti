@@ -17,7 +17,7 @@ function checkProject(me, project) {
 <dl> 
   <dd> 
       <dl> 
-          <dd> <img align="right" height="140em" src="https://media2.giphy.com/media/GYB9dW0icvBg4/200w.gif?cid=6c09b952z1720evvv7ttwckmthio9jxabpy68pymjaeyg3zr&rid=200w.gif&ct=s" /> 
+          <dd> <img align="right" height="200em" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/25c93289-0576-4645-bc48-e828abec9740/dca37k9-6c122dbc-3faf-4a4a-96de-9f1830b02ad8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI1YzkzMjg5LTA1NzYtNDY0NS1iYzQ4LWU4MjhhYmVjOTc0MFwvZGNhMzdrOS02YzEyMmRiYy0zZmFmLTRhNGEtOTZkZS05ZjE4MzBiMDJhZDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QrbJFdFOz45c_Ri6dqsP0dlNqDFMZ3SGsOaKKcHeVHs" /> 
         </dd>
       </dl>
   </dd> 
