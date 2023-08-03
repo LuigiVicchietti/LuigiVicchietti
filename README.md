@@ -26,10 +26,11 @@ function checkProject(me, project) {
 <br>
 
 - 📌 I'm currently studying/working...
-- 📌 I’m currently learning more about HTML, CSS and JavaScript
+- 💙 Working for ATOS SE
+- 📌 I’m currently learning more about HTML, CSS, JavaScript and Java
 - 📩 My contact: Vcchtt.yLuigi222@outlook.com
 - 🚀 Ex ETEC de Guaianases Student - TCC Pyxis Member
-- 📚 Currently a SPTECH Student
+- 📚 Currently a SPTECH Student - 2° SEM
 - 📢 Intermediate English Level
   
 ##
