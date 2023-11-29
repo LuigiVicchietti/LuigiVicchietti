@@ -1,8 +1,8 @@
 ```javascript
-function checkProject(me, project) {
-  if (project != complete) {
+function checkProject(project) {
+  if (project.status != 'complete') {
     console.log('Keep focused');
-    programProject(me, project);
+    programProject(project);
     
     return drinkEnergyDrink(mango);
   } else {
@@ -25,11 +25,10 @@ function checkProject(me, project) {
 
 <br>
 
-- 📌 I'm currently studying/working...
-- 💙 Working for ATOS SE
-- 📌 I’m currently learning more about HTML, CSS, JavaScript and Java
+- 📌 I'm currently studying and working...
+- 💙 Working for ATOS SE as Fiori/ABAP Developer
+- 📌 I’m currently learning more about HTML, CSS, JavaScript, Java and ABAP
 - 📩 My contact: Vcchtt.yLuigi222@outlook.com
-- 🚀 Ex ETEC de Guaianases Student - TCC Pyxis Member
 - 📚 Currently a SPTECH Student - 2° SEM
 - 📢 Intermediate English Level
   
@@ -52,6 +51,7 @@ function checkProject(me, project) {
   <img align="center" alt="Luigi-mysql" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Luigi-React" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Luigi-node" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Luigi-java" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
   <br>
   
