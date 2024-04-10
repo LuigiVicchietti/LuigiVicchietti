@@ -26,11 +26,11 @@ function checkProject(project) {
 <br>
 
 - 📌 I'm currently studying and working...
-- 💙 Working for ATOS SE as Fiori/ABAP Developer
-- 📌 I’m currently learning more about HTML, CSS, JavaScript, Java and ABAP
+- 💙 Working for ATOS Origin as Fiori/ABAP Developer/Consultant
+- 📌 I’m currently learning more about CSS, JavaScript, Java SpringBoot and ABAP
 - 📩 My contact: Vcchtt.yLuigi222@outlook.com
-- 📚 Currently a SPTECH Student - 2° SEM
-- 📢 Intermediate English Level
+- 📚 Currently a @SPTECH Student - 3° SEM
+- 📢 Intermediate-Advanced English Level
   
 ##
 <div align="left" >
@@ -52,6 +52,8 @@ function checkProject(project) {
   <img align="center" alt="Luigi-React" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Luigi-node" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Luigi-java" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Luigi-springboot" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img align="center" alt="sapAbap" height="80" width="80" src="https://5.imimg.com/data5/CZ/KZ/ML/SELLER-1943297/sap-erp-training-in-gurgaon-500x500.png" />
 </div>
   <br>
   
