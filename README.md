@@ -5,9 +5,8 @@ function checkProject(project) {
     programProject(project);
     
     return drinkEnergyDrink(mango);
-  } else {
-    return sleep();
   }
+  return sleep();
 }
 ```
 ## Hello! I'm Luigi! 👋😄
