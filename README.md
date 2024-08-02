@@ -25,10 +25,11 @@ function checkProject(project) {
 <br>
 
 - 📌 I'm currently studying and working...
-- 💙 Working for ATOS Origin as Fiori/ABAP Developer/Consultant
-- 📌 I’m currently learning more about CSS, JavaScript, Java SpringBoot and ABAP
+- 💙 Working for ATOS Origin as Fiori/ABAP Developer Consultant
+- 📌 I’m currently learning more about JavaScript, Java SpringBoot and ABAP / Fiori
+  
 - 📩 My contact: Vcchtt.yLuigi222@outlook.com
-- 📚 Currently a @SPTECH Student - 3° SEM
+- 📚 Currently a @SPTECH Student - 4° SEM
 - 📢 Intermediate-Advanced English Level
   
 ##
