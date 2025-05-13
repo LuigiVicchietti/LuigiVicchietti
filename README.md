@@ -24,13 +24,13 @@ function checkProject(project) {
 
 <br>
 
-- 📌 I'm currently studying and working...
-- 💙 Working for ATOS Origin as Fiori/ABAP Developer Consultant
-- 📌 I’m currently learning more about JavaScript, Java SpringBoot and ABAP / Fiori
+- 📌 I'm currently studying by myself and searching for a job...
+- 💼 Searching for a job
+- 📌 I’m currently learning more about Java SpringBoot and ABAP / Fiori / RAP
   
-- 📩 My contact: Vcchtt.yLuigi222@outlook.com
-- 📚 Currently a @SPTECH Student - 4° SEM
-- 📢 Intermediate-Advanced English Level
+- 📩 My professional contact: Vcchtt.yLuigi222@outlook.com
+- 📚 Graduated @SPTECH
+- 📢 Advanced English Level
   
 ##
 <div align="left" >
@@ -53,7 +53,8 @@ function checkProject(project) {
   <img align="center" alt="Luigi-node" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Luigi-java" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Luigi-springboot" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img align="center" alt="sapAbap" height="80" width="80" src="https://5.imimg.com/data5/CZ/KZ/ML/SELLER-1943297/sap-erp-training-in-gurgaon-500x500.png" />
+  <img align="center" alt="Luigi-kotlin" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  <img align="center" alt="Luigi-SapAbap" height="80" width="80" src="https://5.imimg.com/data5/CZ/KZ/ML/SELLER-1943297/sap-erp-training-in-gurgaon-500x500.png" />
 </div>
   <br>
   
