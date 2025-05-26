@@ -24,8 +24,8 @@ function checkProject(project) {
 
 <br>
 
-- 📌 I'm currently studying by myself and searching for a job...
-- 💼 Searching for a job
+- 📌 I'm currently studying by myself and working...
+- 💼 Working for Atos as SAP ABAP Consultant 💙
 - 📌 I’m currently learning more about Java SpringBoot and ABAP / Fiori / RAP
   
 - 📩 My professional contact: Vcchtt.yLuigi222@outlook.com
